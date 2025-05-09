@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/medical-symptom-checker/static/css/main.e4c7b706.chunk.css",
-    "main.js": "/medical-symptom-checker/static/js/main.ba5dc06b.chunk.js",
-    "main.js.map": "/medical-symptom-checker/static/js/main.ba5dc06b.chunk.js.map",
+    "main.css": "/medical-symptom-checker/static/css/main.33d1bb51.chunk.css",
+    "main.js": "/medical-symptom-checker/static/js/main.cced8bd8.chunk.js",
+    "main.js.map": "/medical-symptom-checker/static/js/main.cced8bd8.chunk.js.map",
     "runtime-main.js": "/medical-symptom-checker/static/js/runtime-main.fe4e6ec8.js",
     "runtime-main.js.map": "/medical-symptom-checker/static/js/runtime-main.fe4e6ec8.js.map",
     "static/js/2.41912ad0.chunk.js": "/medical-symptom-checker/static/js/2.41912ad0.chunk.js",
     "static/js/2.41912ad0.chunk.js.map": "/medical-symptom-checker/static/js/2.41912ad0.chunk.js.map",
     "index.html": "/medical-symptom-checker/index.html",
-    "precache-manifest.cf5a066f3b375764940e27d0f860be68.js": "/medical-symptom-checker/precache-manifest.cf5a066f3b375764940e27d0f860be68.js",
+    "precache-manifest.f17a99ca2b817b9db47de901b31fb9e3.js": "/medical-symptom-checker/precache-manifest.f17a99ca2b817b9db47de901b31fb9e3.js",
     "service-worker.js": "/medical-symptom-checker/service-worker.js",
-    "static/css/main.e4c7b706.chunk.css.map": "/medical-symptom-checker/static/css/main.e4c7b706.chunk.css.map",
+    "static/css/main.33d1bb51.chunk.css.map": "/medical-symptom-checker/static/css/main.33d1bb51.chunk.css.map",
     "static/js/2.41912ad0.chunk.js.LICENSE.txt": "/medical-symptom-checker/static/js/2.41912ad0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fe4e6ec8.js",
     "static/js/2.41912ad0.chunk.js",
-    "static/css/main.e4c7b706.chunk.css",
-    "static/js/main.ba5dc06b.chunk.js"
+    "static/css/main.33d1bb51.chunk.css",
+    "static/js/main.cced8bd8.chunk.js"
   ]
 }
